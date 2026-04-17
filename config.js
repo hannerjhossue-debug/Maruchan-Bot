@@ -626,7 +626,7 @@ import(`${file}?update=${Date.now()}`)
 
 global.yt = 'https://youtube.com/@gatadios'
 global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = ''
 global.fb = 'https://www.facebook.com/groups/872989990425789'
 global.tk = 'https://www.tiktok.com/@gata_dios'
 global.ths = 'https://www.threads.net/@gata_dios'
