@@ -645,3 +645,12 @@ global.grupo_collab1 = 'https://chat.whatsapp.com/IO5k0UOF7hOJHE1eH3Fcxh'
 global.grupo_collab2 = 'https://chat.whatsapp.com/GFsgXW2VD4I4FEOSlEg9wp'
 global.grupo_collab3 = 'https://chat.whatsapp.com/H1TEBeMtFVv3RcayD1WfGU'
 global.grupo_collab4 = 'https://chat.whatsapp.com/LuD3YzdOjH16LUwPPCVmL6'
+
+global.opts = {
+  self: false,
+  pconly: false,
+  gconly: false,
+  swonly: false,
+  queque: false,
+  buttons: false // Intenta forzar el apagado de botones
+}
