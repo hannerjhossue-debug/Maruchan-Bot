@@ -1858,7 +1858,7 @@ sourceUrl: 'https://github.com/GataNina-Li/GataBot-MD'
 }
 }
 },
-{quoted: fkontak2}
+*/{quoted: fkontak2}/*
 )
 apii.data = ''
 }
