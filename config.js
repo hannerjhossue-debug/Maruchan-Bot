@@ -641,10 +641,10 @@ global.canal4 = 'https://whatsapp.com/channel/0029VbCfktKBPzjQXR8N1E0Z'
 global.soporteGB = 'https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV'
 global.grupo1 = 'https://chat.whatsapp.com/JRG6rVJJV40IxlI1wjQ0E9'
 global.grupo2 = 'https://chat.whatsapp.com/B5s3ohjEGofH5YDD05jAV5'
-global.grupo_collab1 = 'https://chat.whatsapp.com/IO5k0UOF7hOJHE1eH3Fcxh'
-global.grupo_collab2 = 'https://chat.whatsapp.com/GFsgXW2VD4I4FEOSlEg9wp'
-global.grupo_collab3 = 'https://chat.whatsapp.com/H1TEBeMtFVv3RcayD1WfGU'
-global.grupo_collab4 = 'https://chat.whatsapp.com/LuD3YzdOjH16LUwPPCVmL6'
+global.grupo_collab1 = 'https://whatsapp.com/channel/0029VbCfktKBPzjQXR8N1E0Z'
+global.grupo_collab2 = 'https://whatsapp.com/channel/0029VbCfktKBPzjQXR8N1E0Z'
+global.grupo_collab3 = 'https://whatsapp.com/channel/0029VbCfktKBPzjQXR8N1E0Z'
+global.grupo_collab4 = 'https://whatsapp.com/channel/0029VbCfktKBPzjQXR8N1E0Z'
 
 global.opts = {
   self: false,
