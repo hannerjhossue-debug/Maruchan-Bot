@@ -1844,8 +1844,8 @@ id,
 {
 text: text,
 contextInfo: {
-forwardingScore: 9999999,
-isForwarded: true,
+forwardingScore: 0,
+isForwarded: false,
 mentionedJid: [user],
 externalAdReply: {
 showAdAttribution: true,
