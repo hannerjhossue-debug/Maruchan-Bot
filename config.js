@@ -82,7 +82,7 @@ fgmods: {url: 'https://api.fgmods.xyz/api', key: 'elrebelde21'},
 popcat: {url: 'https://api.popcat.xyz', key: null}
 }
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.mongodb = 'mongodb+srv://Maruchan-bot:32953738@cluster0.j1amk6v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+global.mongodb = ''
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // ❰❰ bibliotecas : libraries ❱❱
 global.cheerio = cheerio
